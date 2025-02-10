@@ -103,3 +103,5 @@ This project demonstrates how Linear Programming can be applied to real-world bu
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/e3717c64-05eb-4280-90ae-5b25ebec5209)
+
